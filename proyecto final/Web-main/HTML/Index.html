@@ -1,0 +1,50 @@
+<!DOCTYPE html>
+<!-- AWP_In_Variable Name='"on"' -->
+<!-- AWP_In_Variable Name='"Histeresis"' -->
+
+
+<html lang="en">
+
+<head>
+    <meta http-equiv="Refresh" content="10">
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+</head>
+
+<body>
+    <H1>test</H1>
+    <!-- Boton ON-->
+    <div class="On">
+        <h2>On</h2>
+        <form>
+            <input type="submit" value=1>
+            <input type="hidden" name='"on"' value="1">
+        </form>
+    </div>
+    <div class="off">
+        <!-- Boton OFF-->
+        <h2>Off</h2>
+        <form>
+            <input type="submit" value=0>
+            <input type="hidden" name='"on"' value="0">
+        </form>
+    </div>
+
+    <div class="Envio de variable"> 
+        <p>MD20 = :="voltaje":</p>
+    </div>
+
+    <div class="Histeresis">
+        <form method="post" action="" onsubmit="return check();" >
+            <input type="text" name='"Histeresis"' size="2">
+            <input type="submit" value="Set a new Histeresis">
+
+        </form>>
+
+
+    </div>
+
+</body>
+
+</html>
