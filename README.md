@@ -27,11 +27,11 @@ Para ejecutar este proyecto, necesitas:
    ```bash
    git clone https://github.com/tu_usuario/tu_proyecto.git
 
-Contribuciones
+## Contribuciones
 ¡Contribuciones son bienvenidas! Si encuentras algún problema o tienes mejoras que sugerir, por favor abre un issue o envía una pull request.
 
-Licencia
+## Licencia
 Este proyecto está bajo la Licencia MIT. Consulta el archivo LICENSE para más detalles.
 
-Contacto y Soporte
+## Contacto y Soporte
 Si tienes preguntas o necesitas asistencia, puedes contactarme en 
