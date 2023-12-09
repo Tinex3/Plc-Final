@@ -31,7 +31,7 @@ Para ejecutar este proyecto, necesitas:
 ¡Contribuciones son bienvenidas! Si encuentras algún problema o tienes mejoras que sugerir, por favor abre un issue o envía una pull request.
 
 ## Licencia
-Este proyecto está bajo la Licencia MIT. Consulta el archivo LICENSE para más detalles.
+Este proyecto está bajo la Licencia MIT.
 
 ## Contacto y Soporte
-Si tienes preguntas o necesitas asistencia, puedes contactarme en 
+Si tienes preguntas o necesitas asistencia, puedes contactarme en b.riquelme.gomez@gmail.com
